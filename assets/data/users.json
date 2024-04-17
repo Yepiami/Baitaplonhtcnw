@@ -1,0 +1,20 @@
+[
+	{
+		"username": "baokhangit",
+		"password": "123",
+		"name": "Trần Phạm Bảo Khang",
+		"sdt": "0968275246"
+	},
+	{
+		"username": "duydaoit",
+		"password": "123",
+		"name": "Đào Trọng Duy",
+		"sdt": "0388600611"
+	},
+	{
+		"username": "sa",
+		"password": "sapassword",
+		"name": "Tài khoản ảo",
+		"sdt": "03999999999"
+	}
+]

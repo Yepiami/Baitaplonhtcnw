@@ -1,0 +1,126 @@
+[
+	{
+		"id": 1,
+		"category_id": 1,
+		"name": "TV",
+		"img": "../img/shared/subcategory/ao_khoac.png"
+		
+	},
+	{
+		"id": 2,
+		"category_id": 1,
+		"name": "Tủ lạnh",
+		"img": "../img/shared/subcategory/ao_thun.png"
+	},
+	{
+		"id": 3,
+		"category_id": 1,
+		"name": "Máy giặt","img": "../img/shared/subcategory/ao_ni.png"
+		
+	},
+	{
+		"id": 4,
+		"category_id": 1,
+		"name": "Máy lạnh",
+		"img": "../img/shared/subcategory/ao_polo.png"
+		
+	},
+	{
+		"id": 5,
+		"category_id": 1,
+		"name": "Máy hút bụi"
+	},
+	{
+		"id": 6,
+		"category_id": 1,
+		"name": "Máy sấy quần áo","img": "../img/shared/subcategory/quan_bo.png"
+	},
+	{
+		"id": 7,
+		"category_id": 1,
+		"name": "Máy lọc không khí"
+	},
+	{
+		"id": 9,
+		"category_id": 2,
+		"name": "Bếp từ",
+		"img": "../img/shared/subcategory/ao_so_mi.png"
+	},
+	{
+		"id": 10,
+		"category_id": 2,
+		"name": "Nồi chiên không dầu",
+		"img": "../img/shared/subcategory/noi_chien.png"
+	},
+	{
+		"id": 11,
+		"category_id": 2,
+		"name": "Nồi cơm điện","img": "../img/shared/subcategory/do_bo.png"
+		
+	},
+	{
+		"id": 12,
+		"category_id": 2,
+		"name": "Máy xay sinh tố",
+		"img": "../img/shared/subcategory/do_lot.png"
+	},
+	{
+		"id": 13,
+		"category_id": 3,
+		"name": "Máy sấy tóc"
+		
+	},
+	{
+		"id": 14,
+		"category_id": 3,
+		"name": "Máy massage"
+	},
+	{
+		"id": 15,
+		"category_id": 3,
+		"name": "Máy làm móng"
+	},
+	{
+		"id": 16,
+		"category_id": 3,
+		"name": "Máy tẩy lông"
+	},
+	{
+		"id": 17,
+		"category_id": 5,
+		"name": "Máy nước nóng","img": "../img/shared/subcategory/quan_kaki.png"
+	},
+	{
+		"id": 18,
+		"category_id": 5,
+		"name": "Vòi sen"
+	},
+	{
+		"id": 19,
+		"category_id": 5,
+		"name": "Bồn tắm massage"
+		
+	},
+	{
+		"id": 20,
+		"category_id": 6,
+		"name": "Hệ thống điều khiển nhà thông minh"
+	},
+	{
+		"id": 21,
+		"category_id": 6,
+		"name": "Camera an ninh"
+	},
+	{
+		"id": 22,
+		"category_id": 6,
+		"name": "Robot hút bụi",
+		"img": "../img/shared/subcategory/phu_kien.png"
+	},
+	{
+		"id": 23,
+		"category_id": 4,
+		"name": "Quạt",
+		"img": "../img/shared/subcategory/do_lot_2.png"
+	}
+]

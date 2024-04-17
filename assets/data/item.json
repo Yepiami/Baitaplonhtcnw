@@ -1,0 +1,815 @@
+[
+	{
+		"id": 1,
+		"subcategory_id": 1,
+		"name": "TV TCL",
+		"sold": 621000,
+		"price": 299000,
+		"discount": 10,
+		"colors": ["Đen"],	
+		"sizes": ["30","40","50","60"],
+		"characteristics": [
+			"Tivi phù hợp bố trí cho các không gian phòng ở gia đình, phòng khách sạn, phòng họp nhỏ"
+		],
+		"details": "../img/item/id_1/banner.jpg",
+		"comments": [
+			{
+				"user_name": "Long",
+				"star": 5,
+				"content": "Chất liệu và kiểu dáng rất ok"
+			},
+			{
+				"user_name": "Ngọc Anh",
+				"star": 4,
+				"content": "Giao hàng nhanh "
+			},
+			{
+				"user_name": "Bảo Bảo",
+				"star": 5,
+				"content": "Sau 5 ngày chờ đợi cuối cùng đã nhận đc hàng. đã mua lần thứ n rồi nên chất khỏi phải bàn. Quay phim thì đẹp hơn chụp ảnh hihi"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"subcategory_id": 1,
+		"name": "TV LG",
+		"sold": 141000,
+
+		"price": 399000,
+		"discount": 30,
+		"colors": [
+			"Đen"
+		],
+
+		"sizes": ["30","40","50","60"],
+		"characteristics": [
+			"Tivi phù hợp bố trí cho các không gian phòng ở gia đình, phòng khách sạn, phòng họp nhỏ"
+		],
+		"comments": [
+			{
+				"user_name": "Trường Phát",
+				"star": 5,
+				"content": "Hàng đẹp xuất sắc, giao hàng nhanh, mua lần thứ 2 rồi vẫn ưng. Sẽ ủng hộ dài"
+			},
+			{
+				"user_name": "Đỗ Minh Phương",
+				"star": 5,
+				"content": "Mình đã mua sản phẩm này .."
+			},
+			{
+				"user_name": "Đinh Xuân Tuấn",
+				"star": 5,
+				"content": "Execllent"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"subcategory_id": 1,
+		"name": "TV Samsung",
+		"sold": 9500,
+		"price": 299000,
+		"discount": 20,
+		"colors": ["Đen"],
+
+		"sizes": ["30","40","50","60"],
+		"characteristics": [
+			"Tivi phù hợp bố trí cho các không gian phòng ở gia đình, phòng khách sạn, phòng họp nhỏ",
+			"Tivi siêu xịn"
+		],
+		"comments": [
+			{
+				"user_name": "H*****",
+				"star": 5,
+				"content": " Giao hàng nhanh."
+			},
+			{
+				"user_name": "Nam",
+				"star": 5,
+				"content": "Đã mua 2 chiếc."
+			},
+			{
+				"user_name": "Cảnh Thanh",
+				"star": 5,
+				"content": "Cả gia đình tin dùng . Khá là oke nha."
+			}
+		]
+	},
+	{
+		"id": 4,
+		"subcategory_id": 1,
+		"name": "TV Samsung bản nâng cấp",
+		"sold": 214000,
+
+		"price": 269000,
+		"discount": 10,
+		"colors": [
+			"Đen",
+			"Đỏ Đô"
+			
+		],
+		"sizes": ["30","40","50","60"],
+		"characteristics": [
+			"Tivi phù hợp bố trí cho các không gian phòng ở gia đình, phòng khách sạn, phòng họp nhỏ",
+			"Tivi siêu xịn"
+		],
+		"comments": [
+			{
+				"user_name": "H*****",
+				"star": 5,
+				"content": " Giao hàng nhanh."
+			},
+			{
+				"user_name": "Nam",
+				"star": 5,
+				"content": "Đã mua 2 chiếc."
+			},
+			{
+				"user_name": "Cảnh Thanh",
+				"star": 5,
+				"content": "Cả gia đình tin dùng . Khá là oke nha."
+			}
+		]
+	},
+	{
+		"id": 5,
+		"subcategory_id": 1,
+		"name": "TV Sony",
+		"sold": 442000,
+		"price": 269000,
+		"discount": 10,
+		"colors": [
+			"Đen"	
+		
+			
+		],
+		"sizes": ["30","40","50","60"],
+		"characteristics": [
+			"Tivi phù hợp bố trí cho các không gian phòng ở gia đình, phòng khách sạn, phòng họp nhỏ",
+			"Tivi siêu xịn"
+		],
+		"comments": [
+			{
+				"user_name": "H*****",
+				"star": 5,
+				"content": " Giao hàng nhanh."
+			},
+			{
+				"user_name": "Nam",
+				"star": 5,
+				"content": "Đã mua 2 chiếc."
+			},
+			{
+				"user_name": "Cảnh Thanh",
+				"star": 5,
+				"content": "Cả gia đình tin dùng . Khá là oke nha."
+			}
+		]
+	},
+	{
+		"id": 6,
+		"subcategory_id": 1,
+		"name": "TV XiaoMi",
+		"sold": 126000,
+		"price": 269000,
+		"discount": 10,
+		"colors": [
+			"Đen",
+			"Đỏ Đô"
+			
+		],
+		"sizes": ["30","40","50","60"],
+		"characteristics": [
+			"Tivi phù hợp bố trí cho các không gian phòng ở gia đình, phòng khách sạn, phòng họp nhỏ",
+			"Tivi siêu xịn"
+		],
+		"comments": [
+			{
+				"user_name": "H*****",
+				"star": 5,
+				"content": " Giao hàng nhanh."
+			},
+			{
+				"user_name": "Nam",
+				"star": 5,
+				"content": "Đã mua 2 chiếc."
+			},
+			{
+				"user_name": "Cảnh Thanh",
+				"star": 5,
+				"content": "Cả gia đình tin dùng . Khá là oke nha."
+			}
+		]
+	},
+	{
+		"id": 7,
+		"subcategory_id": 1,
+		"name": "TV Toshiba",
+		"sold": 98200,
+		"price": 299000,
+		"discount": 10,
+		"colors": [
+			"Đen","Đỏ"
+			
+		],
+		"sizes": ["30","40","50","60"],
+		"characteristics": [
+			"Tivi phù hợp bố trí cho các không gian phòng ở gia đình, phòng khách sạn, phòng họp nhỏ",
+			"Tivi siêu xịn"
+		],
+		"comments": [
+			{
+				"user_name": "H*****",
+				"star": 5,
+				"content": " Giao hàng nhanh."
+			},
+			{
+				"user_name": "Nam",
+				"star": 5,
+				"content": "Đã mua 2 chiếc."
+			},
+			{
+				"user_name": "Cảnh Thanh",
+				"star": 5,
+				"content": "Cả gia đình tin dùng . Khá là oke nha."
+			}
+		]
+	},
+	{
+		"id": 8,
+		"subcategory_id": 1,
+		"name": "TV Shard",
+		"sold": 851000,
+		"price": 299000,
+		"discount": 10,
+		"colors": [
+			"Đen"
+			
+		],
+		"sizes": ["30","40","50","60"],
+		"characteristics": [
+			"Tivi phù hợp bố trí cho các không gian phòng ở gia đình, phòng khách sạn, phòng họp nhỏ",
+			"Tivi siêu xịn"
+		],
+		"comments": [
+			{
+				"user_name": "H*****",
+				"star": 5,
+				"content": " Giao hàng nhanh."
+			},
+			{
+				"user_name": "Nam",
+				"star": 5,
+				"content": "Đã mua 2 chiếc."
+			},
+			{
+				"user_name": "Cảnh Thanh",
+				"star": 5,
+				"content": "Cả gia đình tin dùng . Khá là oke nha."
+			}
+		]
+	},
+	{
+		"id": 9,
+		"subcategory_id": 2,
+		"name": "Tủ lạnh Toshiba",
+		"sold": 0,
+		"price": 299000,
+		"discount": 20,
+		"colors": ["Trắng","Đen"],
+		"sizes": ["400l","500l"],
+		"characteristics": [
+			"Dung tích sử dụng cung cấp nhiều chỗ để đặt các thực phẩm cần giữ lạnh dễ dàng, phù hợp dùng trong hộ gia đình"
+		],
+		"comments": []
+	},
+	{
+		"id": 10,
+		"subcategory_id": 2,
+		"name": "Tủ lạnh Sonic",
+		"sold": 0,
+		"price": 299000,
+		"discount": 0,
+		"colors": ["Đen",  "Trắng","Xanh Dương"],
+		"sizes": ["400l","500l"],
+		"characteristics": [
+			"Dung tích sử dụng cung cấp nhiều chỗ để đặt các thực phẩm cần giữ lạnh dễ dàng, phù hợp dùng trong hộ gia đình"
+		],
+		"comments": []
+	},
+	{
+		"id": 11,
+		"subcategory_id": 2,
+		"name": "Tủ lạnh Samsung",
+		"sold": 0,
+		"price": 269000,
+		"discount": 30,
+		"colors": ["Đen" ,"Xanh Dương"],
+		"sizes": ["400l","500l"],
+		"characteristics": [
+			"Dung tích sử dụng cung cấp nhiều chỗ để đặt các thực phẩm cần giữ lạnh dễ dàng, phù hợp dùng trong hộ gia đình"
+		],
+		"comments": []
+	},
+	{
+		"id": 12,
+		"subcategory_id": 2,
+		"name": "Tủ lạnh Xiaomi",
+		"sold": 0,
+		"price": 299000,
+		"discount": 30,
+		"colors": ["Đen"],
+		"sizes": ["400l","500l"],
+		"characteristics": [
+			"Dung tích sử dụng cung cấp nhiều chỗ để đặt các thực phẩm cần giữ lạnh dễ dàng, phù hợp dùng trong hộ gia đình"
+		],
+		"comments": []
+	},
+	{
+		"id": 13,
+		"subcategory_id": 2,
+		"name": "Tủ lạnh Inverter",
+		"sold": 373,
+		"price": 229000,
+		"discount": 10,
+		"colors": ["Đen", "Đỏ", "Vàng"],
+		"sizes": ["400l","500l"],
+		"characteristics": [
+			"Dung tích sử dụng cung cấp nhiều chỗ để đặt các thực phẩm cần giữ lạnh dễ dàng, phù hợp dùng trong hộ gia đình"
+		],
+		"comments": [
+			{
+				"user_name": "H*****",
+				"star": 5,
+				"content": " Giao hàng nhanh."
+			}]
+	},
+	
+	
+	
+
+	{
+		"id": 20,
+		"subcategory_id": 3,
+		"name": "Máy giặt Samsung",
+		"sold": 84200,
+		"price": 399000,
+		"discount": 0,
+		"colors": ["Đen"],
+		"sizes": ["20L", "30L"],
+		"characteristics": [
+			"Siêu hợp lí cho gia đình"
+		],
+		"comments": [
+			{
+				"user_name": "p*****9",
+				"star": 5,
+				"content": "shop giao hàng nhanh, đóng gói cẩn thận,"
+			},
+			{
+				"user_name": "minhhthu1102",
+				"star": 5,
+				"content": "Mk mua trực tiếp tại cửa hàng hết hàng nên đặt onl Shop tv nhiệt tình và chu đáo Giao hàng khá nhanh"
+			},
+			{
+				"user_name": "Phạm Anh Tài",
+				"star": 5,
+				"content": "Hàng đẹp, nhẹ, dùng cực ưng ý."
+			}
+		]
+	},
+
+	{
+		"id": 21,
+		"subcategory_id": 3,
+		"name": "Máy giặt Shiba",
+		"sold": 27300,
+		"price": 599000,
+		"discount": 0,
+		"colors": ["Đỏ"],
+		"sizes": [ "20L", "30L"],
+		"characteristics": [
+			"Siêu thích"
+		],
+		"comments": []
+	},
+
+	
+
+
+
+	
+
+	{
+		"id": 29,
+		"subcategory_id": 4,
+		"name": "Máy lạnh Toshiba",
+		"sold": 7500,
+		"price": 599000,
+		"discount": 10,
+		"colors": ["Đen"],
+		"sizes": [ "20L", "30L"],
+		"characteristics": [
+			"Làm lạnh cực mát - Xua tay ngày nóng nực"
+		],
+		"comments": [
+			{
+				"user_name": "Võ Ngọc mai",
+				"star": 5,
+				"content": "mát kiểu đẹp mk ưng ý"
+			}
+		]
+	},
+
+	
+
+	
+	
+	{
+		"id": 34,
+		"subcategory_id": 6,
+		"name": "Máy sấy quần áo",
+		"sold": 19000,
+		"price": 499000,
+		"discount": 0,
+		"colors": ["Đen"],
+		"sizes": ["L"],
+		"characteristics": [
+			"Là trợ thủ đắc lực"
+		],
+		"comments": [{}]
+	},
+
+	{
+		"id": 35,
+		"subcategory_id": 7,
+		"name": "Máy lọc không khí nano",
+		"sold": 9100,
+		"price": 1589000,
+		"discount": 0,
+		"colors": ["Đen"],
+		"sizes": ["L"],
+		"characteristics": [
+			"Mang lại bầu không khí trong lành cho gđ bạn"
+		],
+		"comments": [
+			{
+				"user_name": "tiendat9966",
+				"star": 5,
+				"content": "Nói chung bộ này mua về rất ưng ý luôn, rất đáng tiền. Giao hàng nhanh. 5 sao nhá shop 🥰"
+			},
+			{
+				"user_name": "Nguyễn Thương",
+				"star": 5,
+				"content": "Giao hàng cực kì nhanh. Shop tư vấn nhiệt tình. "
+			},
+			{
+				"user_name": "huyenmeo555",
+				"star": 5,
+				"content": "Màu đẹp. ship hơi lâu "
+			}
+		]
+	},
+
+	
+
+	
+	
+	{
+		"id": 45,
+		"subcategory_id": 10,
+		"name": "Nồi chiên không dầu Xiaomi",
+		"sold": 10400,
+		"price": 499000,
+		"discount": 0,
+		"colors": [
+			"Đen"
+			
+		],
+		"sizes": ["10L", "20L"],
+		"characteristics": [
+			"Đảm bảo an toàn cho người sử dụng"
+		],
+		"comments": [
+			{
+				"user_name": "an khoang",
+				"star": 5,
+				"content": " Nên mua nha"
+			},
+			{
+				"user_name": "nguyễn minh công",
+				"star": 5,
+				"content": "Tốt"
+			},
+			{
+				"user_name": "lê thành",
+				"star": 4,
+				"content": "Đóng gói sản phẩm kỹ càng, chất lượng sản phẩm tuyệt vời"
+			},
+			{
+				"user_name": "Na Na",
+				"star": 5,
+				"content": "các bạn nv tv nhiệt tình"
+			}
+		]
+	},
+
+	
+
+	{
+		"id": 52,
+		"subcategory_id": 11,
+		"name": "Nồi cơm điện Sony",
+		"sold": 9400,
+		"price": 549000,
+		"discount": 0,
+		"colors": ["Đen"],
+		"sizes": ["10L","15L","20L"],
+		"characteristics": [
+			"Nồi cơm xịn xò, nấu những bữa cơm ngon nhất quả đất"
+		],
+		"comments": [
+			{
+				"user_name": "hương thu",
+				"star": 5,
+				"content": "Good"
+			},
+			{
+				"user_name": "Vinh Quang",
+				"star": 4,
+				"content": " rất hài lòng về sản phẩm có dịp sẽ ủng hộ tiếp"
+			},
+			{
+				"user_name": "thiên đức",
+				"star": 5,
+				"content": "Nice vs xu hướng ng trẻ."
+			}
+		]
+	},
+
+	
+
+	
+	{
+		"id": 59,
+		"subcategory_id": 12,
+		"name": "Máy xay sinh tố Mimi",
+		"sold": 0,
+		"price": 498000,
+		"discount": 0,
+		"colors": ["Đen","Trắng","Xanh đậm"],
+		"sizes": ["20L", "29L", "30L"],
+		"characteristics": [
+			"Tốt cho sức khỏe người tiêu dùng"
+		],
+		"comments": []
+	},
+
+	{
+		"id": 60,
+		"subcategory_id": 12,
+		"name": "Máy xay sinh tố Mimiapi",
+		"sold": 2100,
+		"price": 489000,
+		"discount": 0,
+		"colors": ["Đen","Xanh đậm"],
+		"sizes": ["29L"],
+		"characteristics": [
+			"Tốt cho sức khỏe người tiêu dùng"
+		],
+		"comments": []
+	},
+
+	{
+		"id": 61,
+		"subcategory_id": 13,
+		"name": "Máy sấy tóc Xiaomi",
+		"sold": 500,
+		"price": 499000,
+		"discount": 10,
+		"colors": ["Đen"],
+		"sizes": ["M", "L", "XL", "2XL"],
+		"characteristics": [
+			"Là lựa chọn đáng tin"
+		],
+		"comments": [
+			{
+				"user_name": "Huỳnh Văn Long",
+				"star": 5,
+				"content": "Ship hàng nhanh "
+			},
+			{
+				"user_name": "Tuấn",
+				"star": 5,
+				"content": "thoải mái luôn."
+			},
+			{
+				"user_name": "Trần Văn Tình",
+				"star": 4,
+				"content": " cú đặt rồi nhân viên hỗ trợ chọn  chuẩn luôn :vv"
+			}
+		]
+	},
+
+	
+	
+
+	
+
+	{
+		"id": 71,
+		"subcategory_id": 14,
+		"name": "Máy massage hỗ trợ",
+		"sold": 0,
+		"price": 299000,
+		"discount": 0,
+		"colors": [],
+		"sizes": ["10kg", "20kg"],
+		"characteristics": [
+			
+		],
+		"comments": [
+			{
+				"user_name": "hongmaixanh_linhlinh",
+				"star": 5,
+				"content": "Ck mình khen vải ok , mịn màng lắm nha. Shop tư vấn size vừa in luôn. Cho shop 10 điểm"
+			},
+			{
+				"user_name": "Mai Nguyen",
+				"star": 5,
+				"content": "Mình đã nhận được áo rồi. Vải sờ ok. Để ox mặc 1 thời gian xem thế nào, nếu thấm hút mồ hôi tốt thì sẽ đặt thêm 😋"
+			},
+			{
+				"user_name": "men_nhaholy",
+				"star": 4,
+				"content": "Mới mua lần đầu mà thấy vải khá đẹp, nhận áo về rất hài lòng. Biết thế mua thêm rồi"
+			}
+		]
+	},
+
+
+	{
+		"id": 76,
+		"subcategory_id": 15,
+		"name": "Máy làm móng",
+		"sold": 0,
+		"price": 299000,
+		"discount": 0,
+		"colors": [],
+		"sizes": ["M", "L", "XL", "2XL"],
+		"characteristics": [
+			
+			"Dáng suông phù hợp với mọi dáng người",
+			"YODY - Look good. Feel good."
+		],
+		"comments": []
+	},
+
+	
+
+
+	{
+		"id": 86,
+		"subcategory_id": 18,
+		"name": " Vòi sen cao cấp",
+		"sold": 3500,
+		"price": 269000,
+		"discount": 0,
+		"colors": ["Đen"],
+		"sizes": ["5L"],
+		"characteristics": [
+			
+		],
+		"comments": [
+			{
+				"user_name": "Đinh Thanh",
+				"star": 5,
+				"content": " ưng sp này lắm ạ"
+			},
+			{
+				"user_name": "Hà Vân",
+				"star": 5,
+				"content": "màu sắc y hình, giao hàng nhanh"
+			},
+			{
+				"user_name": "HaNa",
+				"star": 5,
+				"content": ""
+			}
+		]
+	},
+
+
+	{
+		"id": 91,
+		"subcategory_id": 19,
+		"name": "Bồn tắm massage Bamboo Siêu Thoáng",
+		"sold": 14600,
+		"price": 159000,
+		"discount": 0,
+		"colors": [],
+		"sizes": ["100L", "150L", "200L"],
+		"characteristics": [
+			"Cho cảm giác thông thoáng, thoải mái, thuận tiện mỗi ngày"
+			
+		],
+		"comments": []
+	},
+
+	{
+		"id": 92,
+		"subcategory_id": 19,
+		"name": "Bồn tắm massage Boxer Bamboo Siêu Thoáng",
+		"sold": 25400,
+		"price": 179000,
+		"discount": 0,
+		"colors": [],
+		"sizes": ["100L", "150L", "200L"],
+		"characteristics": [
+			
+			"Thân thiên với người dùng, an toàn, lành tính cho da",
+			
+			"YODY - Look good. Feel good. "
+		],
+		"comments": []
+	},
+
+	
+	
+
+	
+
+	{
+		"id": 101,
+		"subcategory_id": 20,
+		"name": "Hệ thống điều khiển nhà thông minh",
+		"sold": 2400,
+		"price": 499000,
+		"discount": 0,
+		"colors": [],
+		"sizes": ["ONE"],
+		"characteristics": [
+			"Siêu thông minh và khôn"
+		],
+		"comments": [
+			{
+				"user_name": "Tạ thành long",
+				"star": 5,
+				"content": "Nhận được hàng rất ưng ý cảm ơn menly"
+			}
+		]
+	},
+
+	
+
+	{
+		"id": 104,
+		"subcategory_id": 21,
+		"name": "Camera xixixiLufffy",
+		"sold": 4200,
+		"price": 989000,
+		"discount": 0,
+		"colors": ["Đen"],
+		"sizes": [ "44"],
+		"characteristics": [
+			"Bảo vệ an toàn cho bạn và gia đình"
+		],
+		"comments": []
+	},
+
+	
+	{
+		"id": 108,
+		"subcategory_id": 22,
+		"name": "Robot hút bụi",
+		"sold": 0,
+		"price": 169000,
+		"discount": 0,
+		"colors": ["Đen"],
+		"sizes": ["ONE"],
+		"characteristics": [
+			"Giữ cho ngôi nhà luôn sạch sẽ"
+		],
+		"comments": []
+	},
+
+	
+
+	{
+		"id": 113,
+		"subcategory_id": 23,
+		"name": "Quạt Senko",
+		"sold": 0,
+		"price": 499000,
+		"discount": 0,
+		"colors": ["Đen "],
+		"sizes": ["10kg"],
+		"characteristics": [
+			"Cực kì mát"
+		],
+		"comments": []
+	}
+
+	
+]
